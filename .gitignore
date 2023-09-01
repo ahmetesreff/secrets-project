@@ -1,0 +1,3 @@
+# Node.js modül dosyalarını ve desktop.ini dosyasını yoksay
+node_modules/
+desktop.ini
